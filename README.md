@@ -1,7 +1,7 @@
 # CLIENTS API
 
 Essa API é um teste de conhecimento de APIs Rest usando Java e Spring
-É um simples API com um CRUD de clientes, porém incrementada com alguns conceitos interessante como mapeamento de erros, mapeamentos de exceções e documentação, além de um camada docker pra facilitar na hora de rodar :3
+É um simples API com um CRUD de clientes, porém incrementada com alguns conceitos interessantes como mapeamento de erros, mapeamentos de exceções e documentação, além de um camada docker pra facilitar na hora de rodar :3
 
 ## Como rodar
 Clone ou baixe esto repositório
