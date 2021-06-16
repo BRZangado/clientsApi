@@ -1,0 +1,84 @@
+{
+	"variables": [],
+	"info": {
+		"name": "clientsApi",
+		"_postman_id": "3e5a9468-84ee-1f20-a147-818fbbc429a1",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Client",
+			"request": {
+				"url": "http://localhost:8087/client",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Bruno\",\n\t\"age\":24\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET Clients",
+			"request": {
+				"url": "http://localhost:8087/client",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get client by id",
+			"request": {
+				"url": "http://localhost:8087/client/1",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Update client by id",
+			"request": {
+				"url": "http://localhost:8087/client/1",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\":\"Bruno\",\n\t\"age\": 29\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Delete client by id",
+			"request": {
+				"url": "http://localhost:8087/client/1",
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

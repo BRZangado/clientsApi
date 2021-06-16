@@ -1,0 +1,4 @@
+/home/brunorodrigues/Documents/testPlatformBuilders/springApp/spring-boot-app/src/test/java/com/platformtest/DockerSpringBootMysqlApplicationTests.java
+/home/brunorodrigues/Documents/testPlatformBuilders/springApp/spring-boot-app/src/test/java/com/platformtest/service/ClientServiceTest.java
+/home/brunorodrigues/Documents/testPlatformBuilders/springApp/spring-boot-app/src/test/java/com/platformtest/controller/ClientControllerUnitTest.java
+/home/brunorodrigues/Documents/testPlatformBuilders/springApp/spring-boot-app/src/test/java/com/platformtest/controller/AbstractControllerTest.java

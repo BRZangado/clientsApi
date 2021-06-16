@@ -1,0 +1,4 @@
+com/platformtest/controller/ClientControllerUnitTest.class
+com/platformtest/controller/AbstractControllerTest.class
+com/platformtest/DockerSpringBootMysqlApplicationTests.class
+com/platformtest/service/ClientServiceTest.class
