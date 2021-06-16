@@ -4,7 +4,9 @@ Essa API é um teste de conhecimento de APIs Rest usando Java e Spring
 É um simples API com um CRUD de clientes, porém incrementada com alguns conceitos interessantes como mapeamento de erros, mapeamentos de exceções e documentação, além de um camada docker pra facilitar na hora de rodar :3
 
 ## Como rodar
-Clone ou baixe esto repositório
+pré requisitos: docker e docker-compose
+
+Clone ou baixe este repositório
 execute o arquivo deploy.sh e prontinho, só esperar baixar tudo e rodar (a primeira vez pode demorar um pouco, mas as outras são tranquilas)
 
 a API ficará disponível no endereço http://localhost:8087/ <br>
